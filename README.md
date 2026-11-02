@@ -4,7 +4,7 @@ Pixel-close recreation of the JawGlow™ “Korean Jawline Snatcher” sales lan
 
 ## Live demo
 
-_Add your deployed URL here after you push (e.g. Vercel)._
+https://dermadream-landing-page.vercel.app/
 
 ## Tech stack
 
